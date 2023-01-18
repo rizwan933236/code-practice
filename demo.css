@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: rgb(110, 110, 184);
+    text-align: center;
+}
+.sidebar{
+      color: white;
+      border: 5px solid black;
+      margin: 10;
+      padding: 10;
+      width: 10%;
+      height: 70%;
+      align-items: left;
+    } 
+h6{
+    text-align: center;
+}
